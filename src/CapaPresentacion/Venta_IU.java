@@ -183,7 +183,7 @@ public class Venta_IU extends javax.swing.JInternalFrame {
         }
 
         jLabel6.setFont(new java.awt.Font("Calibri", 0, 14)); // NOI18N
-        jLabel6.setText("TOTAL A PAGAR S/.");
+        jLabel6.setText("TOTAL PAGAR S/.");
 
         txtTotalPagar.setFont(new java.awt.Font("Calibri", 0, 14)); // NOI18N
         txtTotalPagar.setEnabled(false);
